@@ -8,5 +8,7 @@ Sketch plugin: https://github.com/mathieudutour/git-sketch-plugin
 If you need access to commit designs please request it from Dave.
 
 Run
-~~~~ git clone https://github.com/PlaceAVote/pav-design.git ~~~~ 
+~~~~
+git clone https://github.com/PlaceAVote/pav-design.git 
+~~~~
 To pull down the sketch files in your folder of choice.
